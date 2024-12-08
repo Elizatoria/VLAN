@@ -10,7 +10,3 @@ Finance (20)
 Sales (30)  
 IT (40)  
 Each department requires its own VLAN to segregate traffic and enhance performance.
-
-Resources to reference:  
-Cybersecurity Midterm Project.pdf - Attached to this assignment  
-VLAN Tutorial.pdf - in the files section on Teams
